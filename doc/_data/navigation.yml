@@ -1,0 +1,94 @@
+- name: QuickStart
+  link: /QuickStart/
+- name: Changelog
+  link: /Changelog/
+- name: InstallDocumentation
+  link: /InstallDocumentation/
+- name: FAQ
+  link: /FAQ/
+- name: Tasks
+  dropdown:
+  - name: PCT
+    link: /PCT/
+  - name: DlcHome
+    link: /DlcHome/
+  - name: PCTRun
+    link: /PCTRun/
+  - name: PCTDynRun
+    link: /PCTDynRun/
+  - name: PCTCompile
+    link: /PCTCompile/
+  - name: PCTWSComp
+    link: /PCTWSComp/
+  - name: PCTCreateDatabase
+    link: /PCTCreateDatabase/
+  - name: Sports2000
+    link: /Sports2000/
+  - name: PCTDumpSchema
+    link: /PCTDumpSchema/
+  - name: PCTDumpSequences
+    link: /PCTDumpSequences/
+  - name: PCTLoadSchema
+    link: /PCTLoadSchema/
+  - name: PCTIncrementalDump
+    link: /PCTIncrementalDump/
+  - name: PCTBinaryDump
+    link: /PCTBinaryDump/
+  - name: PCTBinaryLoad
+    link: /PCTBinaryLoad/
+  - name: PCTDumpData
+    link: /PCTDumpData/
+  - name: PCTLoadData
+    link: /PCTLoadData/
+  - name: PCTSchemaDoc
+    link: /PCTSchemaDoc/
+  - name: PCTLibrary
+    link: /PCTLibrary/
+  - name: PCTProxygen
+    link: /PCTProxygen/
+  - name: PCTXCode
+    link: /PCTXCode/
+  - name: ProgressVersion
+    link: /ProgressVersion/
+  - name: PCTVersion
+    link: /PCTVersion/
+  - name: ClassDocumentation
+    link: /ClassDocumentation/
+  - name: HtmlDocumentation
+    link: /HtmlDocumentation/
+  - name: XmlDocumentation
+    link: /XmlDocumentation/
+  - name: JsonDocumentation
+    link: /JsonDocumentation/
+  - name: ABLDuck
+    link: /ABLDuck/
+  - name: OEUnit
+    link: /OEUnit/
+  - name: ABLUnit
+    link: /ABLUnit/
+  - name: RestGen
+    link: /RestGen/
+  - name: AssemblyCatalog
+    link: /AssemblyCatalog/
+- name: Types
+  dropdown:
+  - name: PCTConnection
+    link: /PCTConnection/
+  - name: DBConnectionSet
+    link: /DBConnectionSet/
+  - name: PCTAlias
+    link: /PCTAlias/
+  - name: RCodeSelector
+    link: /RCodeSelector/
+  - name: Option
+    link: /Option/
+  - name: Parameter
+    link: /Parameter/
+  - name: OutputParameter
+    link: /OutputParameter/
+  - name: Holder
+    link: /Holder/
+  - name: PLFileSet
+    link: /PLFileSet/
+  - name: Profiler
+    link: /Profiler/

@@ -1,0 +1,13 @@
+remote_theme: chrisrhymes/bulma-clean-theme
+layout: page
+
+title: PCT Documentation
+
+permalink: pretty
+
+footer_menu: footer_menu
+
+plugins:
+  - jekyll-sitemap
+
+show_sidebar: false

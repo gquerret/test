@@ -1,0 +1,12 @@
+style: is-light
+height: is-small
+items:
+  - title: JAR file
+    icon: fa-file-archive
+    call_to_action_name: Download
+    call_to_action_link: https://github.com/Riverside-Software/pct/releases/PCT.jar
+  - title: GitHub
+    icon: fa-github
+    icon_brand: true
+    call_to_action_name: View project
+    call_to_action_link: https://github.com/Riverside-Software/pct/
